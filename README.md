@@ -20,7 +20,7 @@ Built for the [GenAI AgentOS Hackathon](https://github.com/genai-works-org/genai
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/language-translator-agent.git
+   git clone https://github.com/aaryanpawar16/language-translator-agent.git
    cd language-translator-agent
 2.Install dependencies:
 pip install -r requirements.txt
