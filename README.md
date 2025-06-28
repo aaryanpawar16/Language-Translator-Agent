@@ -38,7 +38,7 @@ curl -X POST http://localhost:5000/translate \
 This agent is live and accessible via ngrok:
 
 **Endpoint**:  
-`https://0e72-2401-4900-57c7-911b-b064-1a28-d020-9029.ngrok-free.app/translate`
+`https://e72e-2401-4900-57cc-5dfb-ed0b-8c61-4d2c-6276.ngrok-free.app/translate`
 
 You can test it using a `POST` request with JSON payload:
 ```json
