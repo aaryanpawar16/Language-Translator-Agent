@@ -1,8 +1,8 @@
 # 🌐 Language Translator Agent
 
 A GenAI Agent that translates text between:
-- English ↔ Hindi
-- English ↔ German
+- English -> Hindi
+- English -> German
 
 Built for the [GenAI AgentOS Hackathon](https://github.com/genai-works-org/genai-agentos)
 
