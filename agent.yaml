@@ -1,0 +1,27 @@
+name: language-translator-agent
+description: >
+  A simple English ↔ Hindi and English ↔ German language translator that preserves idioms and natural phrasing.
+  Built for the GenAI AgentOS Hackathon.
+
+entry_point: app:app
+language: python
+framework: flask
+tags:
+  - translation
+  - language
+  - idiomatic
+  - hackathon
+  - genai
+
+# Optionally define input/output formats
+inputs:
+  - name: text
+    type: string
+  - name: source_lang
+    type: string
+  - name: target_lang
+    type: string
+
+outputs:
+  - name: translated_text
+    type: string
