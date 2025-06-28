@@ -43,7 +43,7 @@ This agent is live and accessible via ngrok:
 You can test it using a `POST` request with JSON payload:
 ```json
 {
-  "text": "I love leaarning new languages.",
+  "text": "I love learning new languages.",
   "source_lang": "en",
   "target_lang": "de"
 }
