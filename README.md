@@ -47,3 +47,4 @@ You can test it using a `POST` request with JSON payload:
   "source_lang": "en",
   "target_lang": "de"
 }
+Watch a demo video https://youtu.be/6ndFi3hqTNA
